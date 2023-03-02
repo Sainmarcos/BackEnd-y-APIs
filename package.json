@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Sain Marcos",
 	"description": "Proyecto para FreeCodeCamp de BackEnd y API´s",
+	"keywords": ["freecodecamp", "proyecto", "bootcamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
